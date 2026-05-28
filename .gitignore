@@ -1,0 +1,18 @@
+# Ignore temporary files
+*.log
+*.tmp
+*.bak
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore Power BI autosaves
+*.pbix.tmp
+
+# Ignore system files
+.DS_Store
+Thumbs.db
